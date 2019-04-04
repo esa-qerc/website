@@ -1,0 +1,9 @@
+{
+	"title" : "ESA Quantitative Ecology Research Chapter",
+        "description" : "Connecting Australia's Quantitative Ecologists",
+        "image" : "qerc_banner_bg.png",
+        "button" : {
+          "text" : "Get In Touch",
+          "href" : "/#contact"
+        }
+}
