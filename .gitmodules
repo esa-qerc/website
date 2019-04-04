@@ -1,3 +1,7 @@
 [submodule "themes/sodium"]
 	path = themes/sodium
 	url = https://github.com/uicardiodev/hugo-sodium-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/esa-qerc/esa-qerc.github.io.git
+	branch = master
