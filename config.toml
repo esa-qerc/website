@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://esa-qerc.github.io/"
 languageCode = "en-us"
 title = "ESA QERC"
 theme = "sodium"
