@@ -1,6 +1,6 @@
 ---
 title: "Committee"
-description: "The Research Chapter organising team"
+description: "The research chapter organising team"
 featured_image: "/images/qerc_banner_bg.png"
 ---
 
