@@ -30,4 +30,10 @@ The QERC was officially launched in 2019 by Daniel Falster, Nick Golding, Jian Y
   link="https://jdyen.wordpress.com/"
   caption="Jian is a research fellow interested in population and community dynamics. He is particularly interested in improving the links between ecological theory and statistical models."
   width="200" >}}
+  
+{{< figure src="/images/saras.png"
+  title="Saras Windecker (University of Melbourne)"
+  link="https://github.com/smwindecker/"
+  caption="Saras is a research fellow working on spatial risk mapping and temporal forecasting of species as well as human disease. She is interested more broadly in reproducible research, teaching, and applied statistics."
+  width="200" >}}
  
