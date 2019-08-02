@@ -21,3 +21,11 @@ Statistical Ecology, Research Software, Public Health
 ---
 
 
+## Jian Yen 
+ 
+{{< github jdyen>}}
+{{< website "https://jdyen.wordpress.com/" >}}
+
+Population Ecology, Ecological Theory, Statistical Ecology
+
+---
