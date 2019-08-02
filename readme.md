@@ -12,14 +12,13 @@ This will build the website, putting the resulting website files in the `public`
 
 ### Edit profile
 
-To edit your profile on the member profiles page, follow these instructions:
+To add or edit your profile on the member profiles page, follow these instructions:
 
 #### 1. fork this repository on github, by clicking on the fork button in the top right corner
 
 #### 2. edit the `content/member_profiles/_index.md` file (either directly on Github or on your local machine) to add your information at the bottom of the file, in the following format:
 
 ```
----
 
 ## Your Name
  
