@@ -1,0 +1,6 @@
+<!-- Load fontawesome only once per page -->
+{{ if not (.Page.Scratch.Get "fontawesomeLoaded") }}
+  {{ .Page.Scratch.Set "fontawesomeLoaded" true }}
+  <script defer src="/fontawesome-all.js"></script>
+{{ end }}
+<a href="https://github.com/{{index .Params 0}}" target="_blank" style="color:inherit"><i class="fab fa-github fa-2x"></i></a>
