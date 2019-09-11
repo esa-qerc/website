@@ -21,3 +21,23 @@ Statistical Ecology, Research Software, Public Health
 ---
 
 
+## Jian Yen 
+ 
+{{< github jdyen>}}
+{{< website "https://jdyen.wordpress.com/" >}}
+
+Population Ecology, Ecological Theory, Statistical Ecology
+
+---
+
+
+## Daniel Falster
+ 
+{{< twitter _adaptive_plant_ >}}
+{{< github dfalster>}}
+{{< website "http://danielfalster.com/" >}}
+
+Population Ecology, Ecological Theory, Statistical Ecology
+
+---
+
