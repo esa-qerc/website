@@ -41,6 +41,16 @@ Population Ecology, Ecological Theory, Statistical Ecology
 
 ---
 
+## Saras Windecker
+ 
+{{< twitter smwindecker >}}
+{{< github smwindecker >}}
+{{< website "http://smwindecker.com/" >}}
+
+Statistical Ecology, Reproducible Research, Ecological Theory
+
+---
+
 ## Gordana Popovic
 
 {{< twitter GordyPopovic >}}
