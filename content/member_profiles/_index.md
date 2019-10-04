@@ -61,8 +61,10 @@ Statistical methodology for multivariate data in ecology
 
 ## Corey Bradshaw
 
-{{< twitter conservbytas >}}
+{{< twitter conservbytes >}}
+{{< github cjabradshaw>}}
 {{< website "https://www.flinders.edu.au/people/corey.bradshaw" >}}
+{{< website "https://globalecologyflinders.com" >}}
 
 My team and I develop models to predict ecosystem function, resilience, and change in the past, present, and future, with a focus on maintaining as much biodiversity as possible for the benefit of all.
 
