@@ -345,7 +345,8 @@ Capture-mark-recapture models, mixed models and trends in long-term monitoring p
 
 ## Nick Clark
 
-{{< twitter njclark >}}
+{{< twitter nj_clark >}}
+{{< github nicholasjclark>}}
 {{< website "https://www.nicholasjclark.weebly.com" >}}
 
 Community ecology and molecular epidemiology are my main interests. I routinely develop software for multivariate analyses in R
