@@ -51,6 +51,16 @@ Statistical Ecology, Reproducible Research, Ecological Theory
 
 ---
 
+## Aaron Greenville
+
+{{< twitter AarontheEcolog>}}
+{{< github agreenville>}}
+{{< website "https://aarongreenville.com/" >}}
+
+My team and I study population biology and ecosystem dynamics to understand how species and ecosystems respond to disturbance events across space and time.
+ 
+---
+
 ## Gordana Popovic
 
 {{< twitter GordyPopovic >}}
@@ -352,5 +362,3 @@ Capture-mark-recapture models, mixed models and trends in long-term monitoring p
 Community ecology and molecular epidemiology are my main interests. I routinely develop software for multivariate analyses in R
 
 ---
-
-
