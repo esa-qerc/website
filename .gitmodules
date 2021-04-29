@@ -1,7 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/esa-qerc/esa-qerc.github.io.git
-	branch = master
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
