@@ -12,23 +12,10 @@ The QERC was officially launched in 2019 by Daniel Falster, Nick Golding, Jian Y
   caption="Daniel is a research fellow studying plant growth strategies, community assembly, and demography. He is passionate about science, open data, reproducible research, and teaching biologists to code."
   width="200" >}}
 
-
-{{< figure src="/images/nick.jpg"
-  title="Dr Nick Golding (University of Melbourne)"
-  link="https://scholar.google.co.uk/citations?user=peoal7wAAAAJ&hl=en"
-  caption="Nick is a research fellow developing statistical models and software to predict the distributions of species and human diseases. He’s working on improving these models with information about mechanistic relationships and population dynamics."
-  width="200" >}}
-
-{{< figure src="/images/belinda.jpg"
-  title="Prof Belinda Medlyn (Western Sydney University)"
-  link="https://www.westernsydney.edu.au/hie/people/researchers/professor_belinda_medlyn"
-  caption="Belinda's research focuses on how plants, especially forests, respond to increasing atmospheric carbon dioxide and climate change. She works closely with a number of experimental teams world-wide to test and improve ecosystem models."
-  width="200" >}}
-
 {{< figure src="/images/jian.jpg"
-  title="Dr Jian Yen (University of Melbourne)"
-  link="https://jdyen.wordpress.com/"
-  caption="Jian is a research fellow interested in population and community dynamics. He is particularly interested in improving the links between ecological theory and statistical models."
+  link="https://github.com/jdyen"
+  title="Dr Jian Yen (Arthur Rylah Institute for Environmental Research)"
+  caption="Jian likes to play around in the space between mathematical models and data to see how we can make the most of our precious ecological data sets. Much of his work focuses on the management of freshwater aquatic systems."
   width="200" >}}
   
 {{< figure src="/images/saras.png"
@@ -41,4 +28,16 @@ The QERC was officially launched in 2019 by Daniel Falster, Nick Golding, Jian Y
   title="Dr Fonti Kar (University of New South Wales)"
   link="https://fontikar.wordpress.com/"
   caption="Fonti is a post-doctoral research fellow. She is currently developing various R packages to aid quantitative research at University of New South Wales. Fonti is passionate about diversity in STEMM and open science. She is interested in learning about the latest coding practices and teaching Biostatistics."
+  width="200" >}}
+   
+{{< figure src="/images/andrew.jpg"
+  title="Dr Andrew Letten (University of Queensland)"
+  link="https://andrewletten.net/"
+  caption="Andrew is a Lecturer in Quantitative Biology. His research combines mathematical modeling and experiments to understand the processes regulating the stability of (micro-)ecological communities. His background is originally in plant ecology but he now works primarily on microbial systems, where there are many opportunities to bring theoretical community ecology to bear on problems of environmental and human health."
+  width="200" >}}
+ 
+{{< figure src="/images/diego.jpg"
+  title="Dr Diego Barneche (Australian Institute of Marine Science)"
+  link="https://www.diegobarneche.com/"
+  caption="Diego is an ecological statistician. Most of his past work focused on macroecology and ecophysiology using a mixture of theory, ecoinformatics, databases, and Bayesian statistics. He primarily studied fish, but occasionally other organisms as well. More recently he started working across multiple systems and organisms to help better inform monitoring and management/conservation of tropical marine ecology in Australia."
   width="200" >}}
