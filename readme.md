@@ -1,6 +1,12 @@
 ## source code for the QERC website
 
-**Update, November 2026: QERC has been inactive for several years, so this website has been unpublished**
+
+
+
+# Update, November 2026: QERC has been inactive for several years, so this website has been unpublished
+
+
+
 
 This repo contains ithe source code for the QERC website: [https://esa-qerc.github.io](https://esa-qerc.github.io)
 
