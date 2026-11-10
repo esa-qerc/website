@@ -1,5 +1,7 @@
 ## source code for the QERC website
 
+**Update, November 2026: QERC has been inactive for several years, so this website has been unpublished**
+
 This repo contains ithe source code for the QERC website: [https://esa-qerc.github.io](https://esa-qerc.github.io)
 
 The site is built using [Hugo](https://gohugo.io/) and served via GitHub Pages. The [`esa-qerc.github.io` GitHub repo](https://github.com/esa-qerc/esa-qerc.github.io) contains the files for the built website. Those should never be directly edited. Instead, this repo should be edited, and the site [deployed](#deploy).
